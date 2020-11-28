@@ -1,0 +1,12 @@
+.sidebar{
+    width: 285px;
+    height: 865px;
+    padding-top: 50px;
+    margin-left: 0px;
+    margin-right: 40px;
+    box-shadow: 5px 0 5px 10px rgb(245, 243, 243);
+    display: block;
+}
+.sidebar h6{
+    margin-bottom: 50px;
+}

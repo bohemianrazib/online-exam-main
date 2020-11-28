@@ -1,0 +1,26 @@
+.dashboard-container{
+   
+}
+.dashboard-items{
+    margin: 40px 0px;
+
+    
+}
+.dashboard-next-exam{
+    height: 150px;
+    background: linear-gradient(180deg, rgba(17, 38, 77, 0.82) 0%, rgba(73, 0, 107, 0.82) 100%);
+    width: 1125px;
+    padding: 40px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.dashboard-next-exam h6{
+    margin-top: 20px;
+    color: white;
+}
+.dashboard-next-exam h3{
+    color: white;
+}
+.dashboard-next-exam button{
+    margin-top: 10%;
+}

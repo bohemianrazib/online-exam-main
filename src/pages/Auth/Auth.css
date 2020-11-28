@@ -1,0 +1,24 @@
+.home{
+    background-image: url('../../../src//images//loginBackground.svg');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    width: 1500px;
+    height: 865px;
+    
+}
+.app-title{
+    margin-top: 20%;
+}
+.app-title h4{
+    color: white;
+    font-size: 40px;
+    margin-left: 100px;
+}
+.app-title h1{
+    color: white;
+    font-size: 60px;
+    margin-left: 100px;
+}
+.auth{
+    margin-top: 200px;
+}

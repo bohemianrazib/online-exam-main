@@ -1,0 +1,42 @@
+.main-button{
+    background-color: #49006B;
+    color: white;
+    padding: 7px 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    
+}
+.main-button:focus {
+    border: none;
+    outline: none;
+}
+.active{
+    background-color: #49006B;
+    color: white;
+    padding: 8px 40px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+}
+.active:focus {
+    border: none;
+    outline: none;
+}
+
+.without-active{
+    background-color: rgb(235, 230, 230);
+    color: black;
+    padding: 5px 40px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+}
+.without-active:focus {
+    border: none;
+    outline: none;
+}
+
+.font-color{
+    color: #49006B;
+}
